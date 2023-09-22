@@ -113,6 +113,57 @@
         }
     },
     "iPad": {
+        "iPad Mini 6": {
+            "ModelID": [ "iPad14,1", "iPad14,2" ]
+        },
+        "iPad Air 5": {
+            "ModelID": [ "iPad13,16", "iPad13,17" ]
+        },
+        "iPad Pro (12.9-inch)(5th Gen)": {
+            "ModelID": [ "iPad13,8", "iPad13,9", "iPad13,10", "iPad13,11" ]
+        },
+        "iPad Pro (11-inch)(3rd Generation)": {
+            "ModelID": [ "iPad13,4", "iPad13,5", "iPad13,6", "iPad13,7" ]
+        },
+        "iPad Air 4": {
+            "ModelID": [ "iPad13,1", "iPad13,2" ]
+        },
+        "iPad (9th Generation)": {
+            "ModelID": [ "iPad12,1", "iPad12,2" ]
+        },
+        "iPad (8th Generation)": {
+            "ModelID": [ "iPad11,6", "iPad11,7" ]
+        },
+        "iPad Air 3": {
+            "ModelID": [ "iPad11,3", "iPad11,4" ]
+        },
+        "iPad Mini 5": {
+            "ModelID": [ "iPad11,1", "iPad11,2" ]
+        },
+        "iPad Pro (12.9-inch)(4th Generation)": {
+            "ModelID": [ "iPad8,11", "iPad8,12" ]
+        },
+        "iPad Pro (11-inch)(2nd Generation)": {
+            "ModelID": [ "iPad8,9", "iPad8,10" ]
+        },
+        "iPad Pro (12.9-inch)(3rd Generation)": {
+            "ModelID": [ "iPad8,5", "iPad8,6", "iPad8,7", "iPad8,8" ]
+        },
+        "iPad Pro (11-inch)": {
+            "ModelID": [ "iPad8,1", "iPad8,2", "iPad8,3", "iPad8,4" ]
+        },
+        "iPad (7th Generation)": {
+            "ModelID": [ "iPad7,11", "iPad7,12" ]
+        },
+        "iPad (6th Generation)": {
+            "ModelID": [ "iPad7,5", "iPad7,6" ]
+        },
+        "iPad Pro (12.9-inch)(2nd Generation)": {
+            "ModelID": [ "iPad7,1", "iPad7,2" ]
+        },
+        "iPad Pro (10.5-inch)": {
+            "ModelID": [ "iPad7,3", "iPad7,4" ]
+        },
         "iPad (5th Generation)": {
             "ModelID": [ "iPad6,11", "iPad6,12" ]
         },
