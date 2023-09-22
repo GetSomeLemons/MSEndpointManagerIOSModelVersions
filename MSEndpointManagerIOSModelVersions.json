@@ -12,6 +12,9 @@
         "iPhone 14": {
             "ModelID": [ "iPhone14,7" ]
         },
+        "iPhone SE (3rd Generation)": {
+            "ModelID": [ "iPhone14,6" ]
+        },
         "iPhone 13 Mini": {
             "ModelID": [ "iPhone14,4" ]
         },
