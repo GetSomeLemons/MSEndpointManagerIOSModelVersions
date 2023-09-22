@@ -1,8 +1,156 @@
-{ 
-  "i386": {
-    "ModelID": "iPhone Simulator"
-  },
-  "iPhone 11 Pro Max": {
-    "ModelID": "iPhone12,5"
-  }
+{
+    "iPhone": {
+        "iPhone 14 Pro Max": {
+            "ModelID": [ "iPhone15,3" ]
+        },
+        "iPhone 14 Pro": {
+            "ModelID": [ "iPhone15,2" ]
+        },
+        "iPhone 14 Plus": {
+            "ModelID": [ "iPhone14,8" ]
+        },
+        "iPhone 14": {
+            "ModelID": [ "iPhone14,7" ]
+        },
+        "iPhone 13 Mini": {
+            "ModelID": [ "iPhone14,4" ]
+        },
+        "iPhone 13 Pro Max": {
+            "ModelID": [ "iPhone14,3" ]
+        },
+        "iPhone 13 Pro": {
+            "ModelID": [ "iPhone14,2" ]
+        },
+        "iPhone 13": {
+            "ModelID": [ "iPhone14,5" ]
+        },
+        "iPhone 12 Mini": {
+            "ModelID": [ "iPhone13,1" ]
+        },
+        "iPhone 12 Pro Max": {
+            "ModelID": [ "iPhone13,4" ]
+        },
+        "iPhone 12 Pro": {
+            "ModelID": [ "iPhone13,3" ]
+        },
+        "iPhone 12": {
+            "ModelID": [ "iPhone13,2" ]
+        },
+        "iPhone SE (2nd Generation)": {
+            "ModelID": [ "iPhone12,8" ]
+        },
+        "iPhone 11 Pro Max": {
+            "ModelID": [ "iPhone12,5" ]
+        },
+        "iPhone 11 Pro": {
+            "ModelID": [ "iPhone12,3" ]
+        },
+        "iPhone 11": {
+            "ModelID": [ "iPhone12,1" ]
+        },
+        "iPhone XR": {
+            "ModelID": [ "iPhone11,8" ]
+        },
+        "iPhone XS MAX": {
+            "ModelID": [ "iPhone11,4", "iPhone11,6" ]
+        },
+        "iPhone XS": {
+            "ModelID": [ "iPhone11,2" ]
+        },
+        "iPhone X": {
+            "ModelID": [ "iPhone10,3", "iPhone10,6" ]
+        },
+        "iPhone 8 Plus": {
+            "ModelID": [ "iPhone10,2", "iPhone10,5" ]
+        },
+        "iPhone 8": {
+            "ModelID": [ "iPhone10,1", "iPhone10,4" ]
+        },
+        "iPhone SE": {
+            "ModelID": [ "iPhone8,4" ]
+        },
+        "iPhone 7 Plus": {
+            "ModelID": [ "iPhone9,2", "iPhone9,4" ]
+        },
+        "iPhone 7": {
+            "ModelID": [ "iPhone9,1", "iPhone9,3" ]
+        },
+        "iPhone 6S Plus": {
+            "ModelID": [ "iPhone8,2" ]
+        },
+        "iPhone 6S": {
+            "ModelID": [ "iPhone8,1" ]
+        },
+        "iPhone 6 Plus": {
+            "ModelID": [ "iPhone7,1" ]
+        },
+        "iPhone 6": {
+            "ModelID": [ "iPhone7,2" ]
+        },
+        "iPhone 5S": {
+            "ModelID": [ "iPhone6,1", "iPhone6,2" ]
+        },
+        "iPhone 5C": {
+            "ModelID": [ "iPhone5,3", "iPhone5,4" ]
+        },
+        "iPhone 5": {
+            "ModelID": [ "iPhone5,1", "iPhone5,2" ]
+        },
+        "iPhone 4S": {
+            "ModelID": [ "iPhone4,1" ]
+        },
+        "iPhone 4": {
+            "ModelID": [ "iPhone3,1", "iPhone3,2", "iPhone3,3" ]
+        },
+        "iPhone 3GS": {
+            "ModelID": [ "iPhone2,1" ]
+        },
+        "iPhone 3G": {
+            "ModelID": [ "iPhone1,2" ]
+        },
+        "iPhone": {
+            "ModelID": [ "iPhone1,1" ]
+        }
+    },
+    "iPad": {
+        "iPad (5th Generation)": {
+            "ModelID": [ "iPad6,11", "iPad6,12" ]
+        },
+        "iPad Pro": {
+            "ModelID": [ "iPad6,7", "iPad6,8" ]
+        },
+        "iPad Pro (9.7-inch)": {
+            "ModelID": [ "iPad6,3", "iPad6,4" ]
+        },
+        "iPad Air 2": {
+            "ModelID": [ "iPad5,3", "iPad5,4" ]
+        },
+        "iPad Mini 4": {
+            "ModelID": [ "iPad5,1", "iPad5,2" ]
+        },
+        "iPad Mini 3": {
+            "ModelID": [ "iPad4,7", "iPad4,8", "iPad4,9" ]
+        },
+        "iPad Mini Retina": {
+            "ModelID": [ "iPad4,4", "iPad4,5", "iPad4,6" ]
+        },
+        "iPad Air": {
+            "ModelID": [ "iPad4,1", "iPad4,2", "iPad4,3" ]
+        },
+        "iPad (4th Generation)": {
+            "ModelID": [ "iPad3,4", "iPad3,5", "iPad3,6" ]
+        },
+        "iPad (3rd Generation)": {
+            "ModelID": [ "iPad3,1", "iPad3,2", "iPad3,3" ]
+        },
+        "iPad Mini": {
+            "ModelID": [ "iPad2,5", "iPad2,6", "iPad2,7" ]
+        },
+        "iPad 2": {
+            "ModelID": [ "iPad2,1", "iPad2,2", "iPad2,3", "iPad2,4" ]
+        },
+        "iPad": {
+            "ModelID": [ "iPad1,1" ]
+        }
+    }
 }
