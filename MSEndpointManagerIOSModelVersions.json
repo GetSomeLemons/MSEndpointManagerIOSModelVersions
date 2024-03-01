@@ -1,5 +1,17 @@
 {
     "iPhone": {
+        "iPhone 15 Pro Max": {
+            "ModelID": [ "iPhone16,2" ]
+        },
+        "iPhone 15 Pro": {
+            "ModelID": [ "iPhone16,1" ]
+        },
+        "iPhone 15 Plus": {
+            "ModelID": [ "iPhone15,5" ]
+        },
+        "iPhone 15": {
+            "ModelID": [ "iPhone15,4" ]
+        },
         "iPhone 14 Pro Max": {
             "ModelID": [ "iPhone15,3" ]
         },
