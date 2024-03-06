@@ -128,10 +128,13 @@
         }
     },
     "iPad": {
+        "iPad Pro (12.9-inch)(4th Generation)": {
+            "ModelID": [ "iPad14,5", "iPad14,6" ]
+        },
         "iPad Pro (11-inch)(4th Generation)": {
             "ModelID": [ "iPad14,3", "iPad14,4" ]
         },
-        "iPad Mini 6": {
+        "iPad mini (6th generation)": {
             "ModelID": [ "iPad14,1", "iPad14,2" ]
         },
         "iPad Air (5th Generation)": {
