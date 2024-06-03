@@ -128,6 +128,9 @@
         }
     },
     "iPad": {
+        "iPad Air 13-inch (M2)": {
+            "ModelID": [ "iPad14,10", "iPad14,11" ]
+        }
         "iPad Pro (12.9-inch)(4th Generation)": {
             "ModelID": [ "iPad14,5", "iPad14,6" ]
         },
